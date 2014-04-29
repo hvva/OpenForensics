@@ -29,8 +29,8 @@ Currently proposed chapter outline:
 % Chapter - System Hardware and Software overview
 % Chapter - Windows Forensic Investigation (common traces)
 % Chapter - OSx Forensic Investigation (common traces)
-% Chapter - Linux Forenisc Investigation (common traces)
-% Chapter - iOS Forenisc Investigation (common traces)
+% Chapter - Linux Forensic Investigation (common traces)
+% Chapter - iOS Forensic Investigation (common traces)
 % Chapter - Android Forensic Investigation (common traces)
 % Chapter - Cloud Environments (common traces)
 %Part 4: Investigation Process by Crime Type
@@ -39,5 +39,5 @@ Currently proposed chapter outline:
 % Chapter - Child Exploitation Investigation
 % Chapter - Malware Investigation
 %Part 5: Open Source Laboratory management
-% Chapter - Investigaiton Process Models
+% Chapter - Investigation Process Models
 % Chapter - Mutual Legal Assistance
